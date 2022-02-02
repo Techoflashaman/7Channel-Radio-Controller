@@ -20,8 +20,8 @@ Transmitter Circuit
 6. 1 battery (9V) or sets of batteries equivalent to 9V
 7. 1 battery holder
 
-##
 Receiver Circuit
+##
 
 1. 1 Arduino nano (ATMEGA 328P)
 2. 1 NRF24L01 module
