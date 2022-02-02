@@ -1,0 +1,22 @@
+Component required for making this project:
+
+Transmitter Circuit
+
+1.  1 Arduino nano (ATMEGA 328P)
+2.  2 toggle switch
+3.  2 Joysticks
+4.  1 NRF24L01 module
+5.  1 potentiometer
+6.  1 battery (9V) or sets of batteries equivalent to 9V
+7.  1 battery holder
+
+Receiver Circuit
+
+1.  1 Arduino nano (ATMEGA 328P) 
+2.  1 NRF24L01 module
+3.  2 LEDs
+4.  2 330 ohms resistors
+5.  1 coreless dc motor(7x14)
+6.  1 Mosfet P0903BDG
+7.  1 10K ohm resistor
+8.  1 Schottky diode 1N5819
