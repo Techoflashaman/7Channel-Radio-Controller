@@ -8,6 +8,8 @@ This project describe about 7-channel RC controller for driven many things. Such
 This project firmware is based on Arduino.
 ## Components required for making this project
 
+Hardware requirement
+
 Transmitter Circuit
 
 1. 1 Arduino nano (ATMEGA 328P)
@@ -29,6 +31,10 @@ Receiver Circuit
 6. 1 Mosfet P0903BDG
 7. 1 10K ohm resistor
 8. 1 Schottky diode 1N5819
+
+Software requirement
+
+1-Arduino IDE
 
 
 ##
